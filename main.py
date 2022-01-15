@@ -90,6 +90,6 @@ def battle(HP,level,Monnam,playerhp,xp):
             gamerun = 'FALSE'
         loopran = loopran+1
 
-battle(10,3,"MissingNo", 10,10)
+
 
 
